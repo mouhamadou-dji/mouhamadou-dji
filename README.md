@@ -1,4 +1,4 @@
-### ReapFX — Solana tooling · Trading systems · Web dev
+### Mouhamadou Djigo — Solana tooling · Trading systems · Web dev
 
 Building deployment tools, trading bots, and Chrome extensions for the Solana/crypto space. Occasionally ship web dev for local businesses.
 
